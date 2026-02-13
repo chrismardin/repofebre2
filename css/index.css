@@ -94,6 +94,15 @@ button:hover {
     color: hsl(259, 100%, 65%);
 }
 
+
+
+input.error {
+    border: 1px solid hsl(0, 100%, 67%);
+}
+
+label.error {
+    color: hsl(0, 100%, 67%);
+}
  @media(max-width:600px) {
 
     .inputs {
